@@ -293,7 +293,7 @@ public class FramCourse extends javax.swing.JDialog {
     }//GEN-LAST:event_btnPrintTuitionActionPerformed
 
     public String getRoute(String code) {
-        return "C:\\Users\\MANUEL\\Downloads\\Matriculas\\" + code + ".txt";
+        return "C:\\Users\\user\\Downloads\\Matriculas\\" + code + ".txt";
     }
 
     public Course getCourse(javax.swing.JTable table, int row) {
