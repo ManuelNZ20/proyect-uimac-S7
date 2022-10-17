@@ -1,0 +1,38 @@
+3/Actividades Integradoras I/3.5
+4/Métodología de programación/2.5
+5/Matematica Aplicada/2.0
+6/Matematica Aplicada I/2.5
+7/Pensamiento lógico/4.0
+8/Competencia comunicativa/3.5
+9/Introducción a la ingeniería de sistemas/4.0
+10/Fundamentos de programación/4.0
+11/Tutoría I: Cohesión y autoeficacia/1.0
+12/Cátedra vallejo/3.5
+13/Sistémica/3.5
+14/Física/4.0
+15/Metodologías de programación/4.0
+16/Tutoría II: Identidad institucional/1.0
+17/Matemática III/4.0
+18/Electrónica y circuitos digitales/3.5
+19/Tutoría III: Protagonista del cambio/1.0
+20/Análisis y diseño de sistemas/3.5
+21/Gestión de datos de información/3.5
+22/Técnicas e instrumentos para la investigación/3.5
+23/Tutoría IV: Empatía/1.0
+24/Ingeniería de software/4.0
+25/Gestión de datos e información/3.5
+26/Arquitectura de sistemas de información/3.5
+27/Redes y comunicaciones I/4.0
+28/Metodología de la investigación/3.5
+29/Ingeniería Web/4.0
+30/Tutoria V: Responsabilidad ecologíca/1.0
+31/Gerencia de la tecnología de la información/4.0
+32/Fundamentos de modelado y animación/4.0
+33/Networking and comunications II/4.0
+34/Sistemas inteligentes/4.0
+35/Programación de aplicaciones móviles/4.0
+36/Patrones de diseño de realidad virtual/4.0
+37/Filosofía y ética/3.5
+38/Calidad de software/4.0
+39/Gestión de proyectos/4.0
+40/Gestión de internet de las cosas/4.0
